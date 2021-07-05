@@ -7,4 +7,4 @@ Currently, the site requires reloading once for the future sight counter to load
 ## 2) Adjusting the height of the location of the counter
 
 Even in the picture provided, the location of the counter is fairly low. This is to accomodate for other in-built counter such as rain, terrains and trick room.
-Even though it affect anything, moving the counter up as much as possible would help make the counter look better.
+Even though it wouldn't affect much, moving the counter up as much as possible would help make the counter look better.
